@@ -4,6 +4,7 @@
 |-|-|
 |View / All branches|`Ctrl+Shift+A`|
 |View / Current branch|`Ctrl+Shift+U`|
+|View / Highlight branch|`Ctrl+Shift+B`|
 |Commit|`Ctrl+Space`|
 
 ### Visual Studio Code
