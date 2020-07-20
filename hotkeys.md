@@ -7,6 +7,12 @@
 |View / Highlight branch|`Ctrl+Shift+B`|
 |Commit|`Ctrl+Space`|
 
+### Rider
+
+|Command|Hotkey|
+|-|-|
+|Show smth in "Find"|`Shift+=`|
+
 ### Visual Studio Code
 
 |Command|Hotkey|
