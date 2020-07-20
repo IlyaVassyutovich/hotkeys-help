@@ -12,6 +12,7 @@
 |Command|Hotkey|
 |-|-|
 |Show smth in "Find"|`Shift+=`|
+|Attach to process|`Ctrl+Alt+F5`|
 
 ### Visual Studio Code
 
