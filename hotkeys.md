@@ -13,6 +13,7 @@
 |-|-|
 |Show smth in "Find"|`Shift+=`|
 |Attach to process|`Ctrl+Alt+F5`|
+|Inspect / Incoming calls|`Ctrl+I, Ctrl+I`|
 
 ### Visual Studio Code
 
