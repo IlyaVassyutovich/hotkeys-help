@@ -14,6 +14,7 @@
 |Show smth in "Find"|`Shift+=`|
 |Attach to process|`Ctrl+Alt+F5`|
 |Inspect / Incoming calls|`Ctrl+I, Ctrl+I`|
+|Fold / To definitions|`Ctrl+M, O`|
 
 ### Visual Studio Code
 
