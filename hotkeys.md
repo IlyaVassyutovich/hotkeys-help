@@ -15,6 +15,7 @@
 |Attach to process|`Ctrl+Alt+F5`|
 |Inspect / Incoming calls|`Ctrl+I, Ctrl+I`|
 |Fold / To definitions|`Ctrl+M, O`|
+|Git / Annotate|`Alt+G, A`|
 
 ### Visual Studio Code
 
