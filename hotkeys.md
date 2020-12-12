@@ -29,3 +29,9 @@
 |Command|Hotkey|
 |-|-|
 |Toggle Connections View|`Shift+F8`|
+
+### Total Commander
+
+|Command|Hotkey|
+|-|-|
+|Copy path to selected file|`Alt + L`|
