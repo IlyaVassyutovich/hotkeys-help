@@ -16,6 +16,7 @@
 |Inspect / Incoming calls|`Ctrl+I, Ctrl+I`|
 |Fold / To definitions|`Ctrl+M, O`|
 |Git / Annotate|`Alt+G, A`|
+|Git / History|`Alt+G, H`|
 
 ### Visual Studio Code
 
